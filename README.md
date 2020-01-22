@@ -9,3 +9,6 @@ My solutions are all coded in Python, but I am looking to expand my repertoire a
 
 ## Author
 * **Philips Xu**
+
+## Remarks
+Project Euler problems are challenges that I love to pursue in my spare time, and they allow me to learn a lot about both Mathematics and programming. My solutions are certainly not the most *elegant* nor the most *efficient*, but I hope to revisit the problems that I have already finished to improve my previous work.
